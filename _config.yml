@@ -1,5 +1,6 @@
 title: Macks Projects
+logo: Plaidhat_cybersecurity_lolololol.png
 description: Merlot is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
