@@ -102,7 +102,6 @@ end
 
 
 ### Definition lists can be used with HTML syntax.
-<h1 style="color:blue;"> Test </h1>
 
 <dl>
 <dt>Name</dt>
